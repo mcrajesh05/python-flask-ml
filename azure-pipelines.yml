@@ -2,7 +2,7 @@
 trigger:
 - master
 
-pool: myAgentPool
+pool: udacity
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
